@@ -1,0 +1,40 @@
+div{
+    border-style:solid;
+    border-color: rgb(173, 14, 14);
+    text-align: center;
+
+}
+
+.vid{
+    border-bottom:0% ;
+    padding:4px;
+    display;
+    background-color:rgb(112, 112, 202);
+     font-size:100% ;
+     font-style: none;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+align-items: centre;
+width:200px;
+height: 200px;
+display: block;
+border-radius: 50%;
+border-color: blue;
+}
+figure{
+    display: flex;
+    font-weight: 700;
+
+}
+figcaption{
+    margin-top: 75px;
+    padding-left:2%;
+}
+.fig{
+    display:flex;
+    box-direction:inherit;
+    border-radius: 25%;
+   align-items: flex-start;
+}
